@@ -24,3 +24,5 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunchaeee&layout=compact&show_icons=true&show_owner=true" />
   </a>
 </p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eunchaeee)](https://github.com/anuraghazra/github-readme-stats)

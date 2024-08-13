@@ -6,7 +6,7 @@ I'm interested in creating fascinating works with Learning some Technology.
 - 🐻‍❄️ I mostly use <b>Unity</b> and <b>C#</b> these days.
 - 😺 I'm also good at <b>Python</b>.
 - 🌱 I’m currently learning <b>C++ Algorithm</b>.
-- 🐝 I leaned <b>AI</b> and <b>Bigdata</b> before.(at POSCO&POSTECH Camp for 3 monhths).<br><br>
+- 🐝 I leaned <b>AI</b> and <b>Bigdata</b> before.(at POSCO&POSTECH Camp for 3 months).<br><br>
 
 
 

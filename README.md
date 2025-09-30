@@ -1,26 +1,32 @@
-## Unity, XR, Game 콘텐츠 개발 | 경험을 제작합니다 🌟
+# 👋 안녕하세요! 콘텐츠 개발자 정은채입니다.
+Unity Developer | XR Contents Creator | Experience Designer
 
+---
 
+## 🚀 Skills
+- Unity, C#, OOP
+- XR, Multi Platform
+- **Additional**: Python, Blender, Photoshop
+---
 
+## 💼 Projects
+
+- 🛠️ **공간맵 기반 콘텐츠 저작도구 Space+Maker (2023)**  
+  360도 공간맵 기반의 콘텐츠 저작도구 개발 
+  *역할: Inspector, Hierarchy 기능 단독 설계·구현*
+  [🔗 Microsoft Store에서 보기](https://apps.microsoft.com/detail/xp8lh6r6bl5k1q?hl=ko-KR&gl=KR)
+
+- 🖼️ **리움 미술관 VR전시앱 (2022)**  
+  Unity 기반 VR 전시 프로젝트 참여  
+  *역할: 상호작용 구현, 씬 최적화, VR 디바이스 대응*
+___
+
+## 📫 Contact
+- [Portfolio PDF](링크)  
+- LinkedIn: [링크]
+  
+---
+✨ *Make experiences, not just products.*
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunchaeee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=keybase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<!--
-**eunchaeee/eunchaeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchaeee&hide=Javascript&langs_count=8)](https://github.com/eunchaeee/github-readme-stats)
-
--->

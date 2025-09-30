@@ -1,15 +1,15 @@
-## 👋 안녕하세요! 콘텐츠 개발자 정은채입니다.
+### 👋 콘텐츠를 개발하고 경험을 전달합니다.
 Unity Developer | XR Contents Creator | Experience Designer
 
 ---
 
-## 🚀 Skills
+### 🚀 Skills
 - Unity, C#, OOP
 - XR, Multi Platform
 - **Additional**: Python, Blender, Photoshop
 ---
 
-## 💼 Projects
+### 💼 Projects
 
 - 🛠️ **공간맵 기반 콘텐츠 저작도구 Space+Maker (2023)**  
   360도 공간맵 기반의 콘텐츠 저작도구 개발   
@@ -21,7 +21,7 @@ Unity Developer | XR Contents Creator | Experience Designer
   *역할: 상호작용 구현, 씬 최적화, VR 디바이스 대응*
 ___
 
-## 📫 Contact
+### 📫 Contact
 - [Portfolio PDF](링크)  
 - LinkedIn: [링크]
   

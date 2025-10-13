@@ -24,10 +24,6 @@
   길찾기 로직 구현    
   미니맵 구현    
 
----
-### 📫 Contact
-- [Portfolio PDF](링크)  
-- LinkedIn: [링크]
   
 ---
 ✨ *Make experiences, not just products.*

@@ -5,7 +5,6 @@
 ### 🚀 Skills
 - Unity, C#, OOP
 - XR, Multi Platform
-- **Additional**: Python, Blender, Photoshop
 
 ---
 ### 💼 Projects

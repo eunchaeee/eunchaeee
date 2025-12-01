@@ -1,10 +1,12 @@
-### Contents Developer ---  <mark> "콘텐츠를 개발하고 경험을 전달합니다." </mark>
+### Unity Client Developer | 유니티 클라이언트 개발자
 
 ---
 
 ### 🚀 Skills
-- Unity, C#, OOP
-- XR, Multi Platform
+- Unity · C# · 멀티 플랫폼 대응
+- OOP 설계 · 반응형 프로그래밍(UniRx) · 비동기 처리(UniTask)
+- UGUI · Addressables · Rendering/메모리 최적화
+- Git · Figma · Jira · AI 도구 활용
 
 ---
 ### 💼 Projects
